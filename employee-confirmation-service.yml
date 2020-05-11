@@ -1,4 +1,4 @@
-message: EmployeeConfirmation
+message: EmployeeConfirmation Service
 spring:
   application:
     name: employee-confirmation-service
