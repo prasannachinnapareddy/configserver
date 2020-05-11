@@ -1,0 +1,11 @@
+message: EmployeeConfirmation
+spring:
+  application:
+    name: employee-confirmation-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - "*"
+  
