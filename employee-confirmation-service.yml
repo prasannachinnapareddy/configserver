@@ -15,8 +15,6 @@ spring:
 #    hibernate:
 #      ddl-auto: update
       
-employee:
-  message:EmployeeConfirmation
 
 #server:
 #  port: 8008
