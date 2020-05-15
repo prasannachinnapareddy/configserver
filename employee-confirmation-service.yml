@@ -2,3 +2,10 @@ employee:
   message: EmployeeConfirmation Service
 
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - "*"
+  
