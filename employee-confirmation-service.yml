@@ -1,11 +1,6 @@
 employee:
-  message: EmployeeConfirmation Service Class
+  message: EmployeeConfirmation Service 
 
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        - "*"
+
   
